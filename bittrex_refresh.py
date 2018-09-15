@@ -1,7 +1,5 @@
-import json, urllib2, time, datetime, requests
-import poloniex, bittrex, bitstamp.client
-import socket 
-
+import time
+import bittrex
 
 API_KEYS = {'TREX': {'public': '',
 					 'private': ''}}
